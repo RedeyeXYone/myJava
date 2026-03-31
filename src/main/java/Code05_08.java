@@ -19,7 +19,7 @@ public class Code05_08 {
         else
             System.out.println("F");
 
-        System.out.println(" 학점입니다.");
+        System.out.print(" 학점입니다.");
         s.close();
 
     }
