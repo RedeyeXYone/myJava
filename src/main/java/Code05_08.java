@@ -17,7 +17,7 @@ public class Code05_08 {
         else if (score >= 60)
             System.out.println("D");
         else
-            System.out.println("F");
+            System.out.println("Fxxk You");
 
         System.out.print(" 학점입니다.");
         s.close();
