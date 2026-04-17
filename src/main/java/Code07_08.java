@@ -11,9 +11,9 @@ class Rabbit2 {
 
 public class Code07_08 {
     public static void main(String[] args){
-        Rabbit rabbit1 = new Rabbit();
-        Rabbit rabbit2 = new Rabbit();
-        Rabbit rabbit3 = new Rabbit();
+        Rabbit2 rabbit1 = new Rabbit2();
+        Rabbit2 rabbit2 = new Rabbit2();
+        Rabbit2 rabbit3 = new Rabbit2();
 
         rabbit1.shape = "원";
         rabbit2.shape = "삼각형";
