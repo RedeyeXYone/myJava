@@ -1,4 +1,4 @@
-class Rabbit1 {
+class Rabbit {
     String shape;
     int xPos;
     int yPos;
