@@ -11,9 +11,9 @@ void setPosition(int x, int y) {
 
 public class Code07_09 {
     public static void main(String[] args){
-        Rabbit rabbit1 = new Rabbit();
-        Rabbit rabbit2 = new Rabbit();
-        Rabbit rabbit3 = new Rabbit();
+        Rabbit3 rabbit1 = new Rabbit3();
+        Rabbit3 rabbit2 = new Rabbit3();
+        Rabbit3 rabbit3 = new Rabbit3();
 
         rabbit1.shape = "원";
         rabbit2.shape = "삼각형";
